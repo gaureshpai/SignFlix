@@ -1,0 +1,202 @@
+[
+  {
+    "id": "93c8a550-fb00-448b-a443-3391b62c75a8",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "E11",
+    "encounter_id": "d4da43d7-3f2d-42b8-bc79-6724fa82401e",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "97443eb9-9906-475e-a6cd-56ccb9ec94fe",
+    "diagnosis_name": "Migraine",
+    "diagnosis_code": "J45",
+    "encounter_id": "d1a64844-e4ca-4353-a257-9f535c0bbf17",
+    "severity": "severe",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "59f40dcb-cf4a-4177-a760-306c22d9dcf0",
+    "diagnosis_name": "Asthma",
+    "diagnosis_code": "E11",
+    "encounter_id": "61fa472b-9a3d-4b22-9301-7c77da0a10b0",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "f2e59536-46ca-4108-a630-ba630808936b",
+    "diagnosis_name": "Hypertension",
+    "diagnosis_code": "G43",
+    "encounter_id": "6e7fd64e-cbc3-4845-b133-2216c5ca70fc",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "990f83b4-f8b3-40b2-8538-1de0f66f0eb8",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "I10",
+    "encounter_id": "d92978a6-3e3c-47da-9bc4-85c636c605c7",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "2feff84c-4992-47da-a733-a9b7b1332b83",
+    "diagnosis_name": "Hypertension",
+    "diagnosis_code": "E11",
+    "encounter_id": "16959d3c-f16f-4451-ac29-089dbb24bfc8",
+    "severity": "mild",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "dce272ee-ee33-4323-8d33-c79fc5458384",
+    "diagnosis_name": "Hypertension",
+    "diagnosis_code": "J45",
+    "encounter_id": "2a7a006a-b338-415a-80aa-d3febbb6017b",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "9cfc5d41-6c47-49a9-83f0-7bc6dd9e097b",
+    "diagnosis_name": "Hypertension",
+    "diagnosis_code": "I10",
+    "encounter_id": "41b1473f-ffae-476a-b2f3-ae09c2009ee0",
+    "severity": "mild",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "55832b3d-2461-4933-969e-ccae1f8cb0a8",
+    "diagnosis_name": "Migraine",
+    "diagnosis_code": "I10",
+    "encounter_id": "342969ad-28ae-4fdb-900e-7ce9a3018508",
+    "severity": "mild",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "9921e1f2-66bf-4320-bba7-c4a4ed076646",
+    "diagnosis_name": "Hypertension",
+    "diagnosis_code": "E11",
+    "encounter_id": "f81eaf0e-d3d1-49d1-b1a5-fe16edf043ef",
+    "severity": "severe",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "50c57784-152b-4803-b9f4-a1d616ffda17",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "I10",
+    "encounter_id": "80c8ba4e-8ffd-403d-9fe6-d103ec82c345",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "c5c2ded9-21b6-4c06-b31e-354ddff62c96",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "I10",
+    "encounter_id": "38239b75-e70a-4fc5-a1b7-52ecc8c7d7a5",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "bfd41742-be42-41d8-98a1-0317fe152509",
+    "diagnosis_name": "Asthma",
+    "diagnosis_code": "E11",
+    "encounter_id": "7979e9bc-0918-48ec-aafc-20a63206de99",
+    "severity": "severe",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "4d9260a1-6819-49b4-a234-6d6d66a90152",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "I10",
+    "encounter_id": "cdbba3b6-356c-4c0f-87bd-6c264cf1169a",
+    "severity": "severe",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "1eac89d6-7304-4729-b07d-4a5c343cccbe",
+    "diagnosis_name": "Asthma",
+    "diagnosis_code": "E11",
+    "encounter_id": "436fc3a6-7d02-4526-ab18-b1aed8a7feb0",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "3d211c9b-2eaa-4415-a7fd-342b97d21ae3",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "I10",
+    "encounter_id": "08e38627-13ff-4852-83bd-782a513732bf",
+    "severity": "severe",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "d2e7861f-b169-4f1b-bea4-1b4b37139e52",
+    "diagnosis_name": "Asthma",
+    "diagnosis_code": "I10",
+    "encounter_id": "62647443-cc2a-4e42-8814-941a94f95c65",
+    "severity": "mild",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "e57812ba-5ca6-4292-8ff4-c82793f6d130",
+    "diagnosis_name": "Asthma",
+    "diagnosis_code": "J45",
+    "encounter_id": "e1b9d011-8f47-470e-ac98-d6ac421828cc",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "3561561a-f3e7-4197-9f49-3b07c328adca",
+    "diagnosis_name": "Type 2 Diabetes",
+    "diagnosis_code": "G43",
+    "encounter_id": "e978cfac-6341-49dd-821a-a631c720d7cf",
+    "severity": "mild",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "69a55d20-1c8b-411f-b5a0-e0cedc5ddb55",
+    "diagnosis_name": "Migraine",
+    "diagnosis_code": "E11",
+    "encounter_id": "0dfa85f1-79cb-4a43-971d-16df3f6d3d73",
+    "severity": "moderate",
+    "note": "Patient education provided on management strategies",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  }
+]

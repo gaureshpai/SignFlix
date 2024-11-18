@@ -1,0 +1,44 @@
+[
+  {
+    "id": "3fe6fe7b-8511-4799-bd96-96528becff69",
+    "user_id": "baaa8888-6f74-4f4d-b14b-951c97c3050a",
+    "specialty": "Neurology",
+    "license_number": "LIC100000",
+    "provider_qualification": "MD"
+  },
+  {
+    "id": "974319ad-48c0-4d31-b865-5e59339fcda0",
+    "user_id": "0fa9e0e3-0415-4c28-98b8-ff37d60ae51c",
+    "specialty": "Pediatrics",
+    "license_number": "LIC100001",
+    "provider_qualification": "MD"
+  },
+  {
+    "id": "b2a9acde-ceb4-4f92-9e82-cb9bc5bb3e8a",
+    "user_id": "e12c75ba-c519-499d-8e9c-48bd8bb07ab8",
+    "specialty": "Pediatrics",
+    "license_number": "LIC100002",
+    "provider_qualification": "NP"
+  },
+  {
+    "id": "b28eb48e-f9ee-48b6-a902-03a00e05ede9",
+    "user_id": "99816f63-b697-4d65-99da-73fa450dd7c3",
+    "specialty": "Neurology",
+    "license_number": "LIC100003",
+    "provider_qualification": "MD"
+  },
+  {
+    "id": "0352e99f-7b0d-4baa-930c-5863071e45e5",
+    "user_id": "784c1c93-862a-4753-8130-16ea000c83c7",
+    "specialty": "Oncology",
+    "license_number": "LIC100004",
+    "provider_qualification": "NP"
+  },
+  {
+    "id": "a869da58-0b17-4334-b940-14df61a3e1ee",
+    "user_id": "a1715c4b-b55c-4450-b3c0-6432186eb151",
+    "specialty": "Cardiology",
+    "license_number": "LIC100005",
+    "provider_qualification": "NP"
+  }
+]

@@ -1,25 +1,43 @@
-# MedTrack - Patient Medical History Management System
 
-**MedTrack** is a comprehensive web application designed to securely manage and streamline patient medical history for healthcare providers, government officials, and patients. By centralizing health records, MedTrack improves access to crucial medical data, facilitates better patient care, and enables informed decision-making for healthcare policy.
+# Electronic Health Record (MedTrack) Application
 
-## Key Features
-- **Role-Based Access Control**: Supports four roles with tailored permissions:
-  - **Patients**: Read-only access to their medical history.
-  - **Doctors & Hospitals**: Read and update permissions, allowing them to provide and review treatment data seamlessly.
-  - **Government Officials**: Read access to view patient history based on Aadhaar (or passport for non-Indian residents), check health trends, and analyze district-wise disease data for proactive healthcare measures.
-  
-- **Disease Data Analysis**: Generates district-wise visualizations and trend graphs for disease data, helping officials identify patterns, potential outbreaks, and regional healthcare needs.
+This is an Electronic Health Record (MedTrack) application built using NextJS, PostgreSQL, Drizzle, Shadcn UI, and Tailwind CSS. The application is designed to manage patient health records, appointments, diagnoses, medications, and other medical-related information.
 
-- **Secure Identification System**: Uses Aadhaar number as the unique identifier for Indian citizens and passport numbers for non-Indian residents in India, ensuring secure and reliable patient identification.
+## Features
 
-- **User-Friendly Dashboard**: An intuitive interface providing quick access to patient details, medical history updates, and administrative insights. 
+* **Patient Management**: Create, update, and manage patient profiles, including demographic information, medical history, and contact details.
+* **Appointment Scheduling**: Schedule and manage appointments for patients, including date, time, location, and provider information.
+* **Medication Management**: Create, update, and manage medication lists for patients, including medication name, dosage, frequency, and route.
+* **Immunization Tracking**: Track and manage immunization records for patients, including vaccine name, date administered, and location.
+* **Lab Results Management**: Manage lab results for patients, including test name, result, and date.
+* **Encounter Management**: Create, update, and manage encounter records for patients, including date, time, location, and provider information.
+* **Provider Management**: Create, update, and manage provider profiles, including demographic information, specialties, and contact details.
+* **Search and Filter**: Search and filter patients, appointments, medications, and lab results by various criteria.
+* Written in TypeScript for enhanced type safety
+* Drizzle ORM for type-safe database interaction, schema generation, and migrations
+* Server Components and Server Actions
+* Fully responsive design
+* Styled with Tailwind CSS
+* UI components built with Shadcn/ui
 
-## Tech Stack
-- **Frontend**: Next.js, Tailwind CSS for a modern, responsive UI.
-- **Backend**: Node.js and a secure database for storing and managing patient information.
-- **Authentication**: Secure role-based login for all users.
 
-## Goals
-- Enhance accessibility to critical health data while maintaining privacy.
-- Empower healthcare providers with comprehensive, up-to-date patient data.
-- Support government health monitoring and proactive healthcare planning.
+
+To get started with the application, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies using `npm install`.
+3. Start the application using `npm start`.
+4. Access the application through your web browser at `http://localhost:3000`.
+
+## Contributing
+
+Contributions to the application are welcome. To contribute, follow these steps:
+
+1. Fork the repository to your own GitHub account.
+2. Create a new branch for your feature or bug fix.
+3. Make changes to the code and commit them to your branch.
+4. Submit a pull request to the main repository.
+
+## License
+
+The application is licensed under the MIT License.

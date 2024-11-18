@@ -1,0 +1,202 @@
+[
+  {
+    "id": "65078a0b-f7e5-4891-84fc-e71b3f5b7058",
+    "encounter_id": "d4da43d7-3f2d-42b8-bc79-6724fa82401e",
+    "allergen": "Latex",
+    "allergy_reaction": "Rash",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "0231b1d9-568f-4b45-ae47-52744bb1ca98",
+    "encounter_id": "d1a64844-e4ca-4353-a257-9f535c0bbf17",
+    "allergen": "Latex",
+    "allergy_reaction": "Swelling",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "1e3cc630-d50d-4334-8b2c-1536404d28db",
+    "encounter_id": "61fa472b-9a3d-4b22-9301-7c77da0a10b0",
+    "allergen": "Latex",
+    "allergy_reaction": "Difficulty breathing",
+    "severity": "severe",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "e582ac58-0eb2-4d2e-85a9-6476bbab2d9c",
+    "encounter_id": "6e7fd64e-cbc3-4845-b133-2216c5ca70fc",
+    "allergen": "Latex",
+    "allergy_reaction": "Difficulty breathing",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "8fcf62b7-2e46-4c0a-a00f-b6981dcb9664",
+    "encounter_id": "d92978a6-3e3c-47da-9bc4-85c636c605c7",
+    "allergen": "Shellfish",
+    "allergy_reaction": "Anaphylaxis",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "49d886e2-0b1b-4d89-b791-f43302a6f3b8",
+    "encounter_id": "16959d3c-f16f-4451-ac29-089dbb24bfc8",
+    "allergen": "Shellfish",
+    "allergy_reaction": "Difficulty breathing",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "e36743d0-b71d-411f-9e79-27aedeba0538",
+    "encounter_id": "2a7a006a-b338-415a-80aa-d3febbb6017b",
+    "allergen": "Latex",
+    "allergy_reaction": "Swelling",
+    "severity": "severe",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "d1ab0fa9-fba9-4fad-9433-e8ecb21ce959",
+    "encounter_id": "41b1473f-ffae-476a-b2f3-ae09c2009ee0",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Rash",
+    "severity": "severe",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "ac369ee2-680c-4cbb-b6a3-f28716b064b7",
+    "encounter_id": "342969ad-28ae-4fdb-900e-7ce9a3018508",
+    "allergen": "Penicillin",
+    "allergy_reaction": "Anaphylaxis",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "776754d8-6a29-47cf-ab78-899c1fbe156e",
+    "encounter_id": "f81eaf0e-d3d1-49d1-b1a5-fe16edf043ef",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Rash",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "286c1ae7-5e5c-4325-9dfa-ef059eac3d45",
+    "encounter_id": "80c8ba4e-8ffd-403d-9fe6-d103ec82c345",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Rash",
+    "severity": "severe",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "1d55f2df-e7c9-4a33-ba11-aed28e4a9246",
+    "encounter_id": "38239b75-e70a-4fc5-a1b7-52ecc8c7d7a5",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Difficulty breathing",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "7a73afc9-7572-4f2a-a933-79dd47c92f05",
+    "encounter_id": "7979e9bc-0918-48ec-aafc-20a63206de99",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Swelling",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "0ec47991-a731-4919-b0e1-0eaa172ee613",
+    "encounter_id": "cdbba3b6-356c-4c0f-87bd-6c264cf1169a",
+    "allergen": "Penicillin",
+    "allergy_reaction": "Difficulty breathing",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "18879445-acc3-4b21-86d2-50df8faad729",
+    "encounter_id": "436fc3a6-7d02-4526-ab18-b1aed8a7feb0",
+    "allergen": "Latex",
+    "allergy_reaction": "Swelling",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "868e48af-4143-4c0e-8575-e4637817e59a",
+    "encounter_id": "08e38627-13ff-4852-83bd-782a513732bf",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Anaphylaxis",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "532688f4-a1cf-4dc9-98c6-787607c201b7",
+    "encounter_id": "62647443-cc2a-4e42-8814-941a94f95c65",
+    "allergen": "Shellfish",
+    "allergy_reaction": "Swelling",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "641ed07d-7a90-4ab1-8512-199f2e17c868",
+    "encounter_id": "e1b9d011-8f47-470e-ac98-d6ac421828cc",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Swelling",
+    "severity": "mild",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "52fd2580-5ef4-4f9e-98e5-58a9485d50d9",
+    "encounter_id": "e978cfac-6341-49dd-821a-a631c720d7cf",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Swelling",
+    "severity": "severe",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  },
+  {
+    "id": "9c53698b-0fe8-4f64-855c-731a843cc521",
+    "encounter_id": "0dfa85f1-79cb-4a43-971d-16df3f6d3d73",
+    "allergen": "Peanuts",
+    "allergy_reaction": "Swelling",
+    "severity": "moderate",
+    "note": "Patient advised to avoid allergen",
+    "updated_At": "2024-09-09T21:23:56.915Z",
+    "created_At": "2024-09-09T21:23:56.915Z"
+  }
+]

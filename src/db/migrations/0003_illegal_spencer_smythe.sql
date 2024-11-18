@@ -1,0 +1,1 @@
+ALTER TABLE "patient" ALTER COLUMN "weight" SET DATA TYPE numeric(5, 2);

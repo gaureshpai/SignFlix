@@ -1,0 +1,82 @@
+[
+  {
+    "id": "5314242c-264a-4bc0-8131-6c44e26cd3b0",
+    "encounter_id": "d4da43d7-3f2d-42b8-bc79-6724fa82401e",
+    "patient_id": "53d01585-0c67-4047-b8a6-5aa53607c682",
+    "insurance_provider": "UnitedHealth",
+    "policy_number": "POL292361",
+    "group_number": "GRP83519"
+  },
+  {
+    "id": "5a9a9c6c-9b45-4267-9124-b5f0accab26d",
+    "encounter_id": "61fa472b-9a3d-4b22-9301-7c77da0a10b0",
+    "patient_id": "db20f0fa-0caf-4d2e-896d-635c9d50ad51",
+    "insurance_provider": "UnitedHealth",
+    "policy_number": "POL615912",
+    "group_number": "GRP11856"
+  },
+  {
+    "id": "5a1c0784-270f-41c6-a87b-cf724ac50ec4",
+    "encounter_id": "d92978a6-3e3c-47da-9bc4-85c636c605c7",
+    "patient_id": "6e3b0406-b8d0-4256-be91-816dc1ce2e14",
+    "insurance_provider": "Cigna",
+    "policy_number": "POL905989",
+    "group_number": "GRP44091"
+  },
+  {
+    "id": "c17ff9f0-e153-4b6c-b8ea-519d68185ec6",
+    "encounter_id": "2a7a006a-b338-415a-80aa-d3febbb6017b",
+    "patient_id": "27f4e417-05d2-499b-b461-d88e8af32230",
+    "insurance_provider": "Blue Cross",
+    "policy_number": "POL264131",
+    "group_number": "GRP73253"
+  },
+  {
+    "id": "84e1b80a-01c4-4365-8632-5757b53ab457",
+    "encounter_id": "342969ad-28ae-4fdb-900e-7ce9a3018508",
+    "patient_id": "c03f23d6-6418-40da-8bd3-a4f2c63bf55f",
+    "insurance_provider": "Cigna",
+    "policy_number": "POL605671",
+    "group_number": "GRP92625"
+  },
+  {
+    "id": "2e0a22dd-0ef5-48e8-8f20-9be65237b8bf",
+    "encounter_id": "80c8ba4e-8ffd-403d-9fe6-d103ec82c345",
+    "patient_id": "20741669-fc9b-495c-9b10-3da7f7aeae6b",
+    "insurance_provider": "Aetna",
+    "policy_number": "POL100804",
+    "group_number": "GRP96579"
+  },
+  {
+    "id": "9381d0fc-8ada-43df-915b-9d668dbbd668",
+    "encounter_id": "7979e9bc-0918-48ec-aafc-20a63206de99",
+    "patient_id": "484c9523-af2f-4748-8ada-ebf432eae329",
+    "insurance_provider": "UnitedHealth",
+    "policy_number": "POL589916",
+    "group_number": "GRP43560"
+  },
+  {
+    "id": "9ff11b00-f8c1-45e3-bbb2-8359ef0493de",
+    "encounter_id": "436fc3a6-7d02-4526-ab18-b1aed8a7feb0",
+    "patient_id": "f35fd8c7-d2ed-4aef-96b7-4c945be68226",
+    "insurance_provider": "Aetna",
+    "policy_number": "POL597811",
+    "group_number": "GRP21682"
+  },
+  {
+    "id": "7aac7fcc-0133-48f5-aae0-573bae27ebc9",
+    "encounter_id": "62647443-cc2a-4e42-8814-941a94f95c65",
+    "patient_id": "0f519003-55a7-485f-b379-6082eaa491b4",
+    "insurance_provider": "Cigna",
+    "policy_number": "POL302868",
+    "group_number": "GRP89424"
+  },
+  {
+    "id": "497d8a62-fea6-47f7-a529-64fd39fca08c",
+    "encounter_id": "e978cfac-6341-49dd-821a-a631c720d7cf",
+    "patient_id": "25741061-b890-406b-a02f-080c636469a7",
+    "insurance_provider": "Blue Cross",
+    "policy_number": "POL373719",
+    "group_number": "GRP99885"
+  }
+]

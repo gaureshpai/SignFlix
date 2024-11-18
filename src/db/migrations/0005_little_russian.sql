@@ -1,0 +1,1 @@
+ALTER TABLE "patient" ALTER COLUMN "provider_id" DROP NOT NULL;

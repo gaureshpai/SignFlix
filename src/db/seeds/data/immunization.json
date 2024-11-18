@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0db820be-2575-4b43-bc49-e55f42772f63",
+    "vaccine_name": "Tdap",
+    "site": "Left thigh",
+    "vaccination_date": "2024-09-15",
+    "vaccination_time": "20:50:35",
+    "encounter_id": "d4da43d7-3f2d-42b8-bc79-6724fa82401e",
+    "vaccinator": "Dr. Brown"
+  },
+  {
+    "id": "3c23d89f-440c-4933-813a-e77fff514359",
+    "vaccine_name": "MMR",
+    "site": "Right arm",
+    "vaccination_date": "2025-05-04",
+    "vaccination_time": "11:34:54",
+    "encounter_id": "d1a64844-e4ca-4353-a257-9f535c0bbf17",
+    "vaccinator": "Dr. Smith"
+  },
+  {
+    "id": "185e5c71-d086-457d-a420-582d0a43a040",
+    "vaccine_name": "COVID-19",
+    "site": "Left thigh",
+    "vaccination_date": "2025-06-13",
+    "vaccination_time": "19:50:57",
+    "encounter_id": "61fa472b-9a3d-4b22-9301-7c77da0a10b0",
+    "vaccinator": "Dr. Smith"
+  },
+  {
+    "id": "fb3c4313-fbc2-4b9e-9c25-6175e78cd644",
+    "vaccine_name": "MMR",
+    "site": "Left thigh",
+    "vaccination_date": "2024-12-16",
+    "vaccination_time": "00:21:00",
+    "encounter_id": "6e7fd64e-cbc3-4845-b133-2216c5ca70fc",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "5ef538b6-7965-406e-a5de-79c4f77daea4",
+    "vaccine_name": "MMR",
+    "site": "Left thigh",
+    "vaccination_date": "2025-06-24",
+    "vaccination_time": "05:26:49",
+    "encounter_id": "d92978a6-3e3c-47da-9bc4-85c636c605c7",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "967421ee-173a-4e53-87eb-373d02ad5a18",
+    "vaccine_name": "COVID-19",
+    "site": "Right thigh",
+    "vaccination_date": "2024-10-19",
+    "vaccination_time": "08:31:47",
+    "encounter_id": "16959d3c-f16f-4451-ac29-089dbb24bfc8",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "2a8c7c06-9fea-4a98-bb3b-dee039a90c3e",
+    "vaccine_name": "COVID-19",
+    "site": "Right thigh",
+    "vaccination_date": "2025-05-03",
+    "vaccination_time": "16:35:38",
+    "encounter_id": "2a7a006a-b338-415a-80aa-d3febbb6017b",
+    "vaccinator": "Dr. Williams"
+  },
+  {
+    "id": "e8c80d35-bd3a-454a-b1a2-5e2715c74fcb",
+    "vaccine_name": "COVID-19",
+    "site": "Right thigh",
+    "vaccination_date": "2025-01-20",
+    "vaccination_time": "09:01:01",
+    "encounter_id": "41b1473f-ffae-476a-b2f3-ae09c2009ee0",
+    "vaccinator": "Dr. Smith"
+  },
+  {
+    "id": "5f7c4d8f-2a72-4d51-a838-37f419591abf",
+    "vaccine_name": "COVID-19",
+    "site": "Right arm",
+    "vaccination_date": "2025-01-16",
+    "vaccination_time": "14:01:21",
+    "encounter_id": "342969ad-28ae-4fdb-900e-7ce9a3018508",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "38a785ad-180b-4f33-a412-f9bd45a6e685",
+    "vaccine_name": "MMR",
+    "site": "Right thigh",
+    "vaccination_date": "2024-09-13",
+    "vaccination_time": "20:14:47",
+    "encounter_id": "f81eaf0e-d3d1-49d1-b1a5-fe16edf043ef",
+    "vaccinator": "Dr. Williams"
+  },
+  {
+    "id": "7902bc60-4f57-4673-9824-c8532f2d37cd",
+    "vaccine_name": "MMR",
+    "site": "Right thigh",
+    "vaccination_date": "2025-01-31",
+    "vaccination_time": "05:46:49",
+    "encounter_id": "80c8ba4e-8ffd-403d-9fe6-d103ec82c345",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "40efb775-f406-4fcb-8d10-9d4d534917c1",
+    "vaccine_name": "Tdap",
+    "site": "Left thigh",
+    "vaccination_date": "2025-08-17",
+    "vaccination_time": "08:33:38",
+    "encounter_id": "38239b75-e70a-4fc5-a1b7-52ecc8c7d7a5",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "25db4bb8-abb2-4eac-a0ab-c8c32823afb7",
+    "vaccine_name": "COVID-19",
+    "site": "Right arm",
+    "vaccination_date": "2024-12-15",
+    "vaccination_time": "08:08:50",
+    "encounter_id": "7979e9bc-0918-48ec-aafc-20a63206de99",
+    "vaccinator": "Dr. Williams"
+  },
+  {
+    "id": "68d9909e-693a-4529-ab6d-2555552fafb5",
+    "vaccine_name": "Influenza",
+    "site": "Right thigh",
+    "vaccination_date": "2024-11-18",
+    "vaccination_time": "07:58:27",
+    "encounter_id": "cdbba3b6-356c-4c0f-87bd-6c264cf1169a",
+    "vaccinator": "Dr. Williams"
+  },
+  {
+    "id": "a8d05db6-06f0-44d7-b552-421b7bf275ec",
+    "vaccine_name": "Tdap",
+    "site": "Left thigh",
+    "vaccination_date": "2024-10-24",
+    "vaccination_time": "22:10:37",
+    "encounter_id": "436fc3a6-7d02-4526-ab18-b1aed8a7feb0",
+    "vaccinator": "Dr. Brown"
+  },
+  {
+    "id": "8e6b4d8e-bcea-4865-8970-52ef536ee8d9",
+    "vaccine_name": "Tdap",
+    "site": "Left arm",
+    "vaccination_date": "2025-05-12",
+    "vaccination_time": "23:48:53",
+    "encounter_id": "08e38627-13ff-4852-83bd-782a513732bf",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "ed38eeea-3444-43dd-aef1-6f5a188b2b55",
+    "vaccine_name": "COVID-19",
+    "site": "Right arm",
+    "vaccination_date": "2025-05-06",
+    "vaccination_time": "10:12:32",
+    "encounter_id": "62647443-cc2a-4e42-8814-941a94f95c65",
+    "vaccinator": "Dr. Brown"
+  },
+  {
+    "id": "78d5e4f5-acf9-4dd5-8824-8de08f1775d8",
+    "vaccine_name": "MMR",
+    "site": "Right thigh",
+    "vaccination_date": "2025-02-18",
+    "vaccination_time": "01:54:03",
+    "encounter_id": "e1b9d011-8f47-470e-ac98-d6ac421828cc",
+    "vaccinator": "Dr. Johnson"
+  },
+  {
+    "id": "66c87c6f-e29b-4ec2-8a7b-3b72da3d0beb",
+    "vaccine_name": "MMR",
+    "site": "Right thigh",
+    "vaccination_date": "2024-09-14",
+    "vaccination_time": "05:42:07",
+    "encounter_id": "e978cfac-6341-49dd-821a-a631c720d7cf",
+    "vaccinator": "Dr. Williams"
+  },
+  {
+    "id": "6f407bce-06dc-484f-94ae-4ecd50239667",
+    "vaccine_name": "Influenza",
+    "site": "Right arm",
+    "vaccination_date": "2025-04-01",
+    "vaccination_time": "07:14:01",
+    "encounter_id": "0dfa85f1-79cb-4a43-971d-16df3f6d3d73",
+    "vaccinator": "Dr. Williams"
+  }
+]
